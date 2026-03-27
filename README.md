@@ -2,7 +2,7 @@ I help people and organizations solve real-world problems using data, AI, and pr
 
 I started working in IT before college and, over the past 25 years, I’ve worked as a software architect, BI consultant, data science lead, and project manager. Along the way, I’ve built analytics teams, designed data platforms, and delivered solutions that created measurable impact, including six-figure savings within the first years of implementation.
 
-What I enjoy most is turning complexity into clarity. I care about evidence-based decision-making, building strong teams, and creating systems that actually help people work better.
+What I enjoy most is *turning complexity into clarity*. I care about evidence-based decision-making, building strong teams, and creating systems that actually help people work better.
 
 My main areas of interest include data science, analytics strategy, AI applications, data governance, and enterprise systems—from customer data platforms to content management.
 

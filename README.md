@@ -6,5 +6,5 @@ What I enjoy most is **turning complexity into clarity**. I care about evidence-
 
 My main areas of interest include data science, analytics strategy, AI applications, data governance, and enterprise systems—from customer data platforms to content management.
 
-During my spare time, (I write about)[https://danielpradilla.info] how to make better use of the opportunities of a hyperconnected world, focusing on simpler, more effective ways to live and work.
+During my spare time, [I write about](https://danielpradilla.info) how to make better use of the opportunities of a hyperconnected world, focusing on simpler, more effective ways to live and work.
 
